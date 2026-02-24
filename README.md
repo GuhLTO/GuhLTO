@@ -1,27 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=vintage&pause=1000&color=F7F7F6&repeat=false&width=435&lines=OLA!+Eu+sou+Gustavo+Oliveira)](https://git.io/typing-svg)
-Tenho 21 anos, e atualmente estudo analise e desenvolvimento de sistemas
+# 👨🏻‍💻Gustavo Oliveira
+
+**`Estudande de Analise e desenvolvimento de sistema | Programação em pyton`**
+
+Me chamo Gustavo Oliveira, tenho 21 anos e sou de Santo André, SP. Sempre tive muita facilidade com tecnologia e, por isso, decidi transformar essa afinidade em profissão.
+
+Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio. Sou um desenvolvedor iniciante, focado em aprender as bases da programação e aprimorar minhas habilidades técnicas a cada dia.
+
+# Redes sociais
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ARIAL&pause=1000&color=F7F7F7&width=435&lines=Linguagens+e+Tecnologias)](https://git.io/typing-svg)
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
+# Linguagens e Tecnologias
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
-</p>
+
+
+
+
+
