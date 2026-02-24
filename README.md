@@ -1,18 +1,11 @@
-## OLA! Eu sou Gustavo oliveira 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=vintage&pause=1000&color=F7F7F6&repeat=false&width=435&lines=OLA!+Eu+sou+Gustavo+Oliveira)](https://git.io/typing-svg)
 
 
 - 🔭 Atualmente procurando meu primeiro estagio em tech
 - 🌱 Estudando analise e desenvolvimento de sistemas | Programação em pyton
 
-<div align="center">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuhLTO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuhLTO&layout=compact&theme=radical&langs_count=8" />
-  </a>
+
 
 </div>
 
